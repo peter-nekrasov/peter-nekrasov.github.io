@@ -23,7 +23,7 @@ repository               : "peter-nekrasov/peter-nekrasov.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "peter_n.png"
+  avatar           : "peter_n.jpg"
   name             : "Peter Nekrasov"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate at the University of Chicago"

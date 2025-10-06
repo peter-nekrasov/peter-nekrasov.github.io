@@ -1,1 +1,11 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a PhD student in the Committee for Computational and Applied Mathematics at the University of Chicago. My research uses tools in numerical and applied analysis to gain insight into processes governing the dynamics of ice and other fluids. My recent work involves the development of integral equation methods for modeling the scattering of flexural-gravity waves by features in ice. 

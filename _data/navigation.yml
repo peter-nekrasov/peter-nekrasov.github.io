@@ -21,12 +21,12 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-- title: "Software"
+  - title: "Software"
     url: /software/
     
-- title: "CV"
-  url: "/files/CV_updated.pdf"
-  target: "_blank"
+  - title: "CV"
+    url: "/files/CV_updated.pdf"
+    target: "_blank"
     
 # - title: "CV"
 #   url: /cv-json/
